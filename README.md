@@ -18,14 +18,7 @@ There are two ways to start using Bootstrap 5 on your own web site. You can:
 - Include Bootstrap 5 from a CDN
 - Download Bootstrap 5 from getbootstrap.com
 
-Bootstrap 5 CDN
-If you don't want to download and host Bootstrap 5 yourself, you can include it from a CDN (Content Delivery Network). jsDelivr provides CDN support for Bootstrap's CSS and JavaScript:
-
-- MaxCDN:
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-
-If you want to download and host Bootstrap 5 yourself, go to https://getbootstrap.com/, and follow the instructions there.
+If you want to download and host Bootstrap 5 yourself, go to https://getbootstrap.com/, and follow the instructions there. If you don't want to download and host Bootstrap 5 yourself, you can include it from a CDN (Content Delivery Network).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
