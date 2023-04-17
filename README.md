@@ -29,6 +29,7 @@ If you don't want to download and host Bootstrap 5 yourself, you can include it 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 
 If you want to download and host Bootstrap 5 yourself, go to https://getbootstrap.com/, and follow the instructions there.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 HOW TO USE THE DOCUMENTATION:
