@@ -24,7 +24,7 @@ If you want to download and host Bootstrap 5 yourself, go to https://getbootstra
 
 HOW TO USE THE DOCUMENTATION:
 
-The PDF labelled "Bootstrap 5 Documentation.pdf" contains complete documenataion for the Bootstrap 4 framework along with detiled descriptions for various functionalities and features it provides in building a website alogn with screenshots for the results.
+The PDF labelled "Bootstrap 5 Documentation.pdf" contains complete documenataion for the Bootstrap 5 framework along with detiled descriptions for various functionalities and features it provides in building a website alogn with screenshots for the results.
 
 The code for the screenshots have been uploaded as HTML files in various folders and some as seperate individual files which you can go through to get a sense of basics. To understand which file gives a specific output, I have labelled the files based upon their functioning in the documentation and the folders are labelled according to the headings present in the documentation.
 
